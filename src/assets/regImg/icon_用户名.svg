@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>icon_用户名</title>
+    <desc>Created with Sketch.</desc>
+    <g id="登录\态势感知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录" transform="translate(-1424.000000, -484.000000)">
+            <g id="登录框" transform="translate(1380.000000, 306.000000)">
+                <g id="用户名" transform="translate(32.000000, 166.000000)">
+                    <g id="icon/user" transform="translate(12.000000, 12.000000)">
+                        <g id="icon_用户名">
+                            <rect id="矩形备份-2" fill-opacity="0.5" fill="#262F40" opacity="0.01" x="0" y="0" width="24" height="24"></rect>
+                            <g id="编组-2" transform="translate(5.000000, 5.000000)" fill="#99A6BF">
+                                <circle id="椭圆形" cx="7" cy="4" r="4"></circle>
+                                <path d="M2,10 L12,10 C13.1045695,10 14,10.8954305 14,12 L14,13 C14,13.5522847 13.5522847,14 13,14 L1,14 C0.44771525,14 6.76353751e-17,13.5522847 0,13 L0,12 C-1.3527075e-16,10.8954305 0.8954305,10 2,10 Z" id="矩形"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
