@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>icon-处置中心</title>
+    <desc>Created with Sketch.</desc>
+    <g id="监控中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="全局导航" transform="translate(-576.000000, -110.000000)">
+            <g id="全局导航展开备份-2" transform="translate(200.000000, 52.000000)">
+                <g id="处置中心" transform="translate(374.000000, 56.000000)">
+                    <g id="icon-处置中心" transform="translate(0.000000, 0.091954)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="15.816092"></rect>
+                        <path d="M14,1.97701149 L14,14.8275862 L2,14.8275862 L2,1.97701149 L4.595,1.97679183 L4.59555556,3.91184674 L11.4044444,3.91184674 L11.404,1.97679183 L14,1.97701149 Z M10.9635556,6.92217625 L8.60444444,9.29459004 L6.98666667,7.6672899 L4.45333333,9.98346872 L5.008,10.5774508 L6.96,8.79374713 L8.60444444,10.4474074 L11.5466667,7.48804087 L10.9635556,6.92217625 Z M10.586,1.97679183 L10.5866667,3.10346872 L5.41333333,3.10346872 L5.413,1.97679183 L10.586,1.97679183 Z" id="形状结合" fill="#00B1FF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -49,7 +49,7 @@ export default {
           password:p
         }
       }).then((res)=>{
-        console.log(res.data);
+        // console.log(res.data);
         if(res.data.code == 1){
           alert(res.data.msg)
         this.$router.push({

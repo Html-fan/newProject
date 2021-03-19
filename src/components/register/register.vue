@@ -60,6 +60,8 @@ export default {
               })
             } 
         }).catch((err)=>{
+          console.log(err);
+          alert(err)
           alert('网络故障，请稍候重试')
         })
       }
@@ -167,5 +169,13 @@ export default {
     height: .48rem;
     background: blue;
     color: #FFFFFF;
+    padding: 0; 
+  }
+  .el-button>>>span{
+    font-size: .16rem;
+  }
+  .el-input>>>.el-input__inner::-webkit-input-placeholder{
+    color: red;
+    font-size: .12rem;
   }
 </style>
